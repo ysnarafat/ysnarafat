@@ -1,17 +1,21 @@
 ### Hi there, I'm Yeasin Arafat - aka ysnarafat👋
-Currently working in <b>Dev Skill</b> as an Software Engineer Intern in .NET Stack 
+
+Worked at <b>Dev Skill</b> as an Software Engineer Intern in .NET Stack 
+
 <!--
 **ysnarafat/ysnarafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
 ### I'm Programmer, Learner!!
 
-- 🌱 I’m currently learning <b>Microservice Architecture</b>
+- 🌱 I’m currently learning <b>Javascript, .NET Core, Golang</b> 
+- 🔭 I’m currently working on a project named [Personalized-Job-Board](https://github.com/ysnarafat/Personalized-Job-Board)
 - 👯 I’m looking to collaborate on other people working on cool technologies
-- 🤔 I’m looking for help with .NET Core
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🤔 I’m looking for help with .NET Core, Golang
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat, read
+
 
 <!-- - 📫 How to reach me: ... -->
 
