@@ -1,5 +1,14 @@
 <h1> Hi there, I'm Yeasin Arafat - aka ysnarafat 😎 </h1>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/ysnarafat/" target="_blank"><img src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/linkedin.png?raw=true"  height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/MdYeasin10A" target="_blank"><img height="30" src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:yeasinarafat10@gmail.com" target="_blank"><img height="30" src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/gmail.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/y32s5n" target="_blank"><img height="30" src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<!-- <img src="https://github.com/ysnarafat/ysnarafat/assets/Hi.gif" width="29px"> -->
 
 Worked at <b>Dev Skill</b> as an Software Engineer Intern in .NET Stack 
 
