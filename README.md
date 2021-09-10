@@ -14,7 +14,7 @@
 
 <!-- <img src="https://github.com/ysnarafat/ysnarafat/assets/Hi.gif" width="29px"> -->
 
-- 🖥️ I'm currently working at <b>S3 Innovate Pte. Ltd.</b> as a Junior Software Engineer.  <!-- Responsible for...  - Developing API for IoT Devices  - MQTT   -->
+- 🖥️ I'm currently working at <b><a href="https://www.s3innovate.com/" target="_blank">S3 Innovate Pte. Ltd.</a></b> as a Junior Software Engineer.  <!-- Responsible for...  - Developing API for IoT Devices  - MQTT   -->
 - 🔨 I'm currently working in the IoT domain
 - 🌱 I’m currently learning...
   - Angular with TypeScript 
