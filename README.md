@@ -10,7 +10,7 @@
 <!-- <a href="https://facebook.com/y32s5n" target="_blank"><img width="35" height="40" src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
-### A learner, passionate programmer, open-source enthusiats. 
+### A learner, passionate programmer, open-source enthusiast. 
 
 <!-- <img src="https://github.com/ysnarafat/ysnarafat/assets/Hi.gif" width="29px"> -->
 
