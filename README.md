@@ -20,8 +20,9 @@
   - Angular with TypeScript 
 - 📘 I’m currently reading...
   - <b>Clean Code</b> by Robert C. Martin aka Uncle Bob
+  - <b>Head First Design Patterns</b> by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
 - 👯 I’m looking to collaborate on other people working on cool technologies
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat, read
 
