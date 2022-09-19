@@ -10,21 +10,18 @@
 <!-- <a href="https://facebook.com/y32s5n" target="_blank"><img width="35" height="40" src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
-### A learner, passionate programmer, open-source enthusiast. 
+### A learner, passionate programmer, open-source enthusiast. What's more? 
 
 <!-- <img src="https://github.com/ysnarafat/ysnarafat/assets/Hi.gif" width="29px"> -->
-
-- 🖥️ I'm currently working at <b><a href="https://www.s3innovate.com/" target="_blank">S3 Innovate Pte. Ltd.</a></b> as a Junior Software Engineer.  <!-- Responsible for...  - Developing API for IoT Devices  - MQTT   -->
-- 🔨 I'm currently working in the IoT domain
-- 🌱 I’m currently learning...
-  - Angular with TypeScript 
-- 📘 I’m currently reading...
-  - <b>Clean Code</b> by Robert C. Martin aka Uncle Bob
-  - <b>Head First Design Patterns</b> by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
-- 👯 I’m looking to collaborate on other people working on cool technologies
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- A `Software Engineer` by profession working remotely from my hometown **[Chittagong](https://en.wikipedia.org/wiki/Chittagong), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have `1+` years of hands-on experience in software development.
+- Developed products for `IoT` domain.
+- Have built web apps targeting multi-platform and cross-platform ecosystems in both monolithic and microservices architectures.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to eat, read
+- ⚡ Fun fact: Love to eat, travel, read
+
+<!-- - 🖥️ I'm currently working at <b><a href="https://www.s3innovate.com/" target="_blank">S3 Innovate Pte. Ltd.</a></b> as a Junior Software Engineer.  <!-- Responsible for...  - Developing API for IoT Devices  - MQTT   -->
+
 
 <!-- - 🔭 I’m currently working on a project named [Personalized-Job-Board](https://github.com/ysnarafat/Personalized-Job-Board) -->
 
@@ -36,6 +33,52 @@
 
 <hr>
 
+#### What am I doing?
+- 🏢 Working at **[Surbana Jurong Pte. Ltd.](https://surbanajurong.com/)** as a **Software Engineer**.
+- 👨‍💻 Writing `C#` `TypeScript` `SQL` `HTML` `CSS`.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/ysnarafat/" target="_blank"><img src="https://github.com/ysnarafat/ysnarafat/blob/main/assets/linkedin.png?raw=true"  height="20"></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat) and the **.NET community**. -->
+- 📚 Currently learning about **clean architecture**
+<!-- , **blazor**, **computer vision**, and **process mining algorithms**. -->
+- 📘 Currently reading...
+  - <b>Clean Code</b> by Robert C. Martin aka Uncle Bob
+  - <b>Head First Design Patterns</b> by Eric Freeman, Elisabeth Freeman, Bert Bates, Kathy Sierra
+<!-- - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations** professionally. -->
+- 👯 Looking to collaborate on **.NET** and **JavaScript** projects
+- Contributing to open-source projects as a hobby
+
+<!-- - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby. -->
+
+<hr>
+
+
+#### What my skill set looks like?
+- 🖥 **Front-end:** 
+  - **📜 Languages:** • `🧙🏻 C# 10`  • `👨‍🔧 TypeScript` 
+  - **🔬 Frameworks:**  
+    - **🌐 Web:** • [Angular](https://angular.io) • [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) 
+
+- 🗄️ **Back-end:**
+  - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
+  - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [PostgreSQL](https://www.postgresql.org/) • [MongoDB](https://www.mongodb.com/) 
+  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) 
+  - **🔌 Messaging protocols:** • [MQTT](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) 
+  
+  <!-- • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/)  • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) -->
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
+  - **🗃 Project management:**  • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
+  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+- 🧙‍♂️ **Coding pattern & principles:**
+  - **⚒ Patterns:**  • [Factory](https://en.wikipedia.org/wiki/Factory_pattern) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) 
+  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  <!-- - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/) -->
+  
+- **🏗️ Code editors:**
+<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+  
+<!-- 
 ### Things I am skilled with...
   - C++, C#, JavaScript, Python
   - .NET Core, Angular
@@ -45,7 +88,7 @@
   - Docker
   - MQTT
   - Azure DevOps
-  - CI/CD
+  - CI/CD -->
 
 
 
@@ -81,14 +124,29 @@
   
 <hr>
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ysnarafat&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ysnarafat&show_icons=true&theme=gotham" alt="ysnarafat" />
 
-</details>
 
-<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysnarafat&show_icons=true&hide_border=false&layout=compact&langs_count=4&theme=gotham"/>
+</p>
+
+
+
+<hr>
+
+
+#### What companies have I worked for?
+<p left="center" style="background: #495363">
+  <a href="https://surbanajurong.com/">
+    <img src="https://surbanajurong.com/wp-content/themes/surbana-wp/images/SJ_SJ_Tagline_FC_RGB@2x.png" height=50>
+    </a> 
+  <a href="https://s3innovate.com/">
+    <img src="https://secureservercdn.net/160.153.138.217/xg0.627.myftpupload.com/wp-content/uploads/2020/05/logo.svg?time=1663532406" height=50>
+  </a>
+</p>
+
 
 <div align="center">
 
